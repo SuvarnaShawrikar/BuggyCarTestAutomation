@@ -17,7 +17,7 @@ Setup
 There are three files
 1) LoginPage - User is able to Login with valid credentials and then vote for sports car.
 2) Registration - User is able to regiter as new user, this file also include password vaildation methods
-3) RestAssuredAPI - Checking if Buggy Car Rating website is available with status code as 200 using GET https protocol.
+3) RestAssuredAPI - Using GET HTTPS protocol to check if Buggy Car Rating website is available with status code 200.
 
 Login Page
 1) Implement test for Login Method to check successful login.
