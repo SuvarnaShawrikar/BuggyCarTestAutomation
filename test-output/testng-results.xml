@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-29T12:29:53 NZST" name="Default suite" finished-at="2023-06-29T12:30:25 NZST" duration-ms="32386">
+    <groups>
+    </groups>
+    <test started-at="2023-06-29T12:29:53 NZST" name="Default test" finished-at="2023-06-29T12:30:25 NZST" duration-ms="32386">
+      <class name="test.Registration">
+        <test-method signature="PasswordValidationTestCase()[pri:0, instance:test.Registration@2ed2d9cb]" started-at="2023-06-29T12:29:53 NZST" name="PasswordValidationTestCase" finished-at="2023-06-29T12:30:02 NZST" duration-ms="9022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PasswordValidationTestCase -->
+        <test-method signature="duplicateProfileTestCase()[pri:0, instance:test.Registration@2ed2d9cb]" started-at="2023-06-29T12:30:02 NZST" name="duplicateProfileTestCase" finished-at="2023-06-29T12:30:09 NZST" duration-ms="6767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duplicateProfileTestCase -->
+        <test-method signature="negativeRegistrationTestCase()[pri:0, instance:test.Registration@2ed2d9cb]" started-at="2023-06-29T12:30:09 NZST" name="negativeRegistrationTestCase" finished-at="2023-06-29T12:30:16 NZST" duration-ms="6729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeRegistrationTestCase -->
+        <test-method signature="positiveRegistrationTestCase()[pri:0, instance:test.Registration@2ed2d9cb]" started-at="2023-06-29T12:30:16 NZST" name="positiveRegistrationTestCase" finished-at="2023-06-29T12:30:25 NZST" duration-ms="9778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveRegistrationTestCase -->
+      </class> <!-- test.Registration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
