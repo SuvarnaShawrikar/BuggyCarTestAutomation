@@ -6,13 +6,13 @@ Automation Testing using TestNG, and Selenium for Buggy Cars Rating (https://bug
 Pre-requisites
 Eclipse IDE
 Maven Project using TestNG & Selenium
-RestAssured for API Testing
+RestAssured for API Testing 
 Git
 
 Setup
-Clone the repository to your local machine
-Open Eclipse and Import the project
-Run the project
+Clone the repository to your local machine using - https://github.com/SuvarnaShawrikar/BuggyCarTestAutomation.git
+Open Eclipse and Import the project, select Projects from Git
+Run the project - Run Login Page and Registration as TestNG test and run RestAssurredAPI as Java Application
 
 There are three files
 1) LoginPage - User is able to Login with valid credentials and then vote for sports car.
@@ -31,4 +31,4 @@ Registration
 5) Duplicat Profile not allowed Test whether username already exixts.
 
 RestAssuredAPI 
-1)As API documentation is not available, so checking if site is available using GET https protocol and validate the status code is 200.
+1) As API documentation is not available, so checking if site is available using GET https protocol and validate the status code is 200.
