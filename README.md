@@ -4,15 +4,15 @@ Created automation test for Registration Page &amp; Login Page. User will be abl
 Automation Testing using TestNG, and Selenium for Buggy Cars Rating (https://buggy.justtestit.org/).
 
 Pre-requisites
-Eclipse IDE
-Maven Project using TestNG & Selenium
-RestAssured for API Testing 
-Git
+1) Eclipse IDE
+2) Maven Project using TestNG & Selenium
+3) RestAssured for API Testing 
+4) Git
 
 Setup
-Clone the repository to your local machine using - https://github.com/SuvarnaShawrikar/BuggyCarTestAutomation.git
-Open Eclipse and Import the project, select Projects from Git
-Run the project - Run Login Page and Registration as TestNG test and run RestAssurredAPI as Java Application
+1) Clone the repository to your local machine using - https://github.com/SuvarnaShawrikar/BuggyCarTestAutomation.git
+2) Open Eclipse and Import the project, select Projects from Git
+3) Run the project - Run Login Page and Registration as TestNG test and run RestAssurredAPI as Java Application
 
 There are three files
 1) LoginPage - User is able to Login with valid credentials and then vote for sports car.
