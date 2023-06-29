@@ -28,7 +28,7 @@ Registration
 2) Enters correct Credentials check if the user's first name is correctly displayed once logged in (i.e. Hi Firstname!)
 3) Test whether password shows the error messages when password doesn't meet the requirement (Upper Case has not been specified).
 4) Test whether password shows the error messages when password doesn't meet the specification (Special character has not been specified).
-5) Duplicat Profile not allowed Test whether username already exixts.
+5) Duplicate Profile not allowed Test whether username already exixts.
 
 RestAssuredAPI 
 1) As API documentation is not available, so checking if site is available using GET https protocol and validate the status code is 200.
